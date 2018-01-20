@@ -1,7 +1,7 @@
 # C++ Programs
 A collection of C++ Programs to explain and implement the basic concepts of C++
 
-** Concepts implemented: **
+**Concepts implemented:**
 * Linear Search
 * Binary Search (Recursive and Iterative)
 * Hash Search
