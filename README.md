@@ -1,5 +1,5 @@
-# C++ Programs
-A collection of C++ Programs to explain and implement the basic concepts of C++
+# Data Structures using C++
+A collection of C++ Programs to explain and implement various Data Structures and Algorithms
 
 **Concepts implemented:**
 * Linear Search
